@@ -26,9 +26,11 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """
-Hi {} 
+Hello 👋 {} 
 
-I am Powerful Url Uploader Bot
+✓ I am Powerful Spllc Url Uploader Bot.
+✓ Developed By Salman Patwary.
+✓ Contact US: @Salman1881
  
 """
 
@@ -38,24 +40,18 @@ I am Powerful Url Uploader Bot
 
 # Select the desired option.
 
-# Then be relaxed your file will be uploaded soon..
+# Then be relaxed your file will be uploaded soon...
  
 """
 
-# give credit to developer
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : Url Uploader Bot
+<b>♻️ My Name</b> : Spllc Url Uploader Bot
 
-<b>🌀 Channel</b> : <a href="https://t.me/TMWAD">@TMWAD</a>
-
-<b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
+<b>👲 Developer :</b> <a href="https://t.me/Salman1881">Salman Patwary</a>
 
 <b>📑 Language :</b> <a href="https://www.python.org/">Python 3.10.5</a>
 
-<b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
-
-<b>👲 Developer :</b> <a href="https://t.me/kinu6">@kinu6</a>
 
 """
 
@@ -124,6 +120,6 @@ I am Powerful Url Uploader Bot
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n\nTʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ\n\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
-    CUSTOM_CAPTION_UL_FILE = " "
+    CUSTOM_CAPTION_UL_FILE = " © Salman Patwary "
     NO_VOID_FORMAT_FOUND = "ERROR... <code>{}</code>"
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
